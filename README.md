@@ -2,7 +2,6 @@
 ## About Me
 
 * A Software Engineer based in Bandung, West Java, Indonesia
-* Currently working as IoT Software Lead at DycodeX
 * I teach basic programming for IoT application
 * I play bass guitar on my free time
 
