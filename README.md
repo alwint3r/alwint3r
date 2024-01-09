@@ -1,10 +1,10 @@
 
 ## About Me
 
-* A Software Engineer based in Bandung, West Java, Indonesia
-* Currently work as a Principal Engineer
+* A Software Engineer based in Bandung, West Java, Indonesia, focusing on building AIoT solutions for various verticals
+* Currently working as a Principal Engineer
 * I teach basic programming for IoT application
-* I play bass guitar on my free time
+* I play bass guitar in my free time
 
 
 ### Languages
